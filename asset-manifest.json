@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/reactPub/static/css/main.d4037570.css",
-    "main.js": "/reactPub/static/js/main.e9ade1a4.js",
-    "index.html": "/reactPub/index.html",
-    "main.d4037570.css.map": "/reactPub/static/css/main.d4037570.css.map",
-    "main.e9ade1a4.js.map": "/reactPub/static/js/main.e9ade1a4.js.map"
+    "main.css": "/react10thousand/static/css/main.d4037570.css",
+    "main.js": "/react10thousand/static/js/main.e9ade1a4.js",
+    "index.html": "/react10thousand/index.html",
+    "main.d4037570.css.map": "/react10thousand/static/css/main.d4037570.css.map",
+    "main.e9ade1a4.js.map": "/react10thousand/static/js/main.e9ade1a4.js.map"
   },
   "entrypoints": [
     "static/css/main.d4037570.css",
